@@ -1,0 +1,23 @@
+PODS:
+  - D2LayoutHelperPod (0.1.1)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - STPopup (1.8.0)
+  - SVProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - D2LayoutHelperPod (~> 0.1)
+  - SDWebImage (~> 3.8)
+  - STPopup (~> 1.8)
+  - SVProgressHUD (~> 2.0)
+
+SPEC CHECKSUMS:
+  D2LayoutHelperPod: cbf1bae515ad4b78f852ff9b718fbda9034d6037
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  STPopup: af630a85628e4226ffcbda5caaead0d99aed13a8
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+
+PODFILE CHECKSUM: 44dc0a2fb77e509131368a97c5d94675d85c8610
+
+COCOAPODS: 1.0.1
